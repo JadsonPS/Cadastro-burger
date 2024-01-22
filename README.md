@@ -10,4 +10,6 @@ O projeto consiste de um formulário de cadastro de pedidos de uma lanchonete, o
 - Consumo de api com Axios
 - React.js
 - Componentes React
+- Yarn
+- Styled-Components
 
